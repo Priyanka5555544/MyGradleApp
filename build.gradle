@@ -30,12 +30,3 @@ dependencies {
 // Define the main class for the application
 mainClassName = 'App'
 
-task display {
-	doLast{
-println 'iam priyanka'
-}}
-
-task priyanka{
-doLast{
-println 'iam priya from bit collage'
-}}
